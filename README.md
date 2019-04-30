@@ -14,7 +14,7 @@ a simple class for introduction to unit test in C#.
 
 ### :pushpin: You can download or watch this video in link below:
 
-[Comming Soon :)](http://ashkaan.ir)
+[Aparat](https://www.aparat.com/v/dQwGj)
 
 ## How to run?
 
